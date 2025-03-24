@@ -118,7 +118,4 @@ This commit adds an optimized SQL query to solve the two-sum problem.
 Thank you for contributing to **leetcode-SQL-Database**!  
 Your help is greatly appreciated and makes this project a better resource for the community. If you have any questions, feel free to reach out through an issue or discussion.
 
-Happy coding and happy SQL querying! 🚀
-```
-
-Feel free to adjust any sections or details to better suit your project's needs. Happy contributing!
+> ## Happy coding and happy SQL querying! 🚀
