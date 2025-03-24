@@ -1,6 +1,3 @@
-Below is the updated `CONTRIBUTING.md` file for your **LEETCODE_DAILY_TASK** repository, with all instances of the repository name replaced accordingly:
-
-
 # Contributing to LEETCODE_DAILY_TASK
 
 Thank you for your interest in contributing to **LEETCODE_DAILY_TASK**!  
