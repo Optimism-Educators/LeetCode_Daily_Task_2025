@@ -183,7 +183,4 @@ This commit introduces an optimized solution for the Two Sum problem, including 
 Thank you for contributing to **LEETCODE_DAILY_TASK**!  
 Your help and commitment make this project a better resource for the community. If you have any questions or need further assistance, feel free to open an issue or contact the maintainers.
 
-Happy coding and happy LeetCoding! 🚀
-```
-
-Simply copy and paste this content into your `CONTRIBUTING.md` file in the repository root. Let me know if you need further modifications or additional details!
+> # Happy coding and happy LeetCoding! 🚀
